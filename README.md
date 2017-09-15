@@ -18,10 +18,11 @@ First column: sgRNA ID
 
 
 Before running RANKS, you must first run once in the same folder the program which generates the control gene scores by typing:
-	perl control-distribution.pl
+```
+ > perl control-distribution.pl
+```
 
-
-Example:
+## Example:
 ``` 
  > perl control-distribution.pl
 ```
